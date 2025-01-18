@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,6 +24,6 @@ Here are some ideas to get you started:
 </head>
 <body>
     <div>
-        <img src="coding-boy.gif" alt="image">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHAxYWhpN2V2YnA1MmNzNHFhdHA0dHdsc2w4MWUxcDRqYnlmNnFkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="image">
 </body>
 </html>
