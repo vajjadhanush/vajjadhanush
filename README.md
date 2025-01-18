@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Currently Pursuing B.Tech 3rd-year
-
-    <div>
+ <div>
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU5YjAzb2k4YzN3eTVvODZ0aGJiZDd0azBkeW1zYzFkMW01djhzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="image">
     </div>
 
